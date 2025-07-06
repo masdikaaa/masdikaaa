@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andika Ferdi</h1>
+<h1 align="center">Hi 👋, I'm Masdika.BIZ.ID</h1>
 <h3 align="center">Cloud | DevOps | Sysadmin | Automation Enthusiast</h3>
 
 <p align="center">
