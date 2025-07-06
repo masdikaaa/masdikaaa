@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masdika</h1>
+<h1 align="center">Hi 👋, I'm Masdika.BIZ.ID</h1>
 <h3 align="center">Cloud | DevOps | Sysadmin | Automation Enthusiast</h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 📩 How to reach me
 
-* 🌐 Website/Blog: [www.masdika.biz.id/blog](https://www.masdika.biz.id/blog)
+* 🌐 Website/Blog: [www.masdika.biz.id/blog](https://www.masdika.biz.id/)
 * 📧 Email: [me@masdika.biz.id](mailto:me@masdika.biz.id)
 
 ---
@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
 </p>
 
