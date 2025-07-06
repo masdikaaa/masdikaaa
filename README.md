@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Masdika.BIZ.ID</h1>
+<h1 align="center">Hi 👋, I'm Masdika</h1>
 <h3 align="center">Cloud | DevOps | Sysadmin | Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andikaferdi&label=Profile%20views&color=0e75b6&style=flat" alt="andikaferdi" />
+  <img src="https://komarev.com/ghpvc/?username=masdikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="masdikaaa" />
 </p>
 
 ---
@@ -28,15 +28,6 @@
 🛠️ Monitoring : Prometheus, Grafana, ELK Stack, Zabbix  
 📜 Scripting  : Bash, Python, PowerShell  
 ```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andikaferdi&show_icons=true&theme=tokyonight" alt="andikaferdi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaferdi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
