@@ -21,13 +21,13 @@
 ## 🧰 Tech Stack
 
 ```bash
-🖥️ OS         : Linux (Debian, Ubuntu, CentOS), Windows Server  
-🔧 Tools      : Ansible, Terraform, Git, CI/CD (GitHub Actions, GitLab CI, Jenkins)  
-📦 Containers : Docker, Kubernetes, Podman  
-☁️ Cloud      : AWS, OpenStack, Proxmox, DigitalOcean, GCP (basic)  
-💃 DB         : MySQL, PostgreSQL, MongoDB  
-🛠️ Monitoring : Prometheus, Grafana, ELK Stack, Zabbix  
-📜 Scripting  : Bash, Python, PowerShell  
+🖥️ OS         : Linux (Debian, Ubuntu, CentOS), Windows Server
+🔧 Tools      : Ansible, Terraform, Git, CI/CD (GitHub Actions, GitLab CI, Jenkins)
+📦 Containers : Docker, Kubernetes, Podman
+☁️ Cloud      : AWS, OpenStack, Proxmox, DigitalOcean, GCP (basic)
+💃 DB         : MySQL, PostgreSQL, MongoDB
+🛠️ Monitoring : Prometheus, Grafana, ELK Stack, Zabbix
+📜 Scripting  : Bash, Python, PowerShell
 ```
 
 ---
@@ -53,5 +53,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 </p>
-
----
