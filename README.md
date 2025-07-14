@@ -6,6 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=masdikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="masdikaaa" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20CentOS-yellow?logo=linux&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-red?logo=ansible&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Python-Automation-blue?logo=python&logoColor=white&style=flat"/>
+</p>
+
 ---
 
 ## 🚀 About Me
