@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Masdika.BIZ.ID;🚀+Cloud+Engineer+%7C+DevOps+Specialist+%7C+Sysadmin;⚡+Automating+Infra+with+Ansible+%7C+Terraform+%7C+CI%2FCD;🐳+Scaling+Apps+on+Docker+%7C+Kubernetes;📊+Monitoring+with+Prometheus+%7C+Grafana;☁️+Building+Reliable+%26+Secure+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Masdika.ID;🚀+Cloud+Engineer+%7C+DevOps+Specialist+%7C+Sysadmin;⚡+Automating+Infra+with+Ansible+%7C+Terraform+%7C+CI%2FCD;🐳+Scaling+Apps+on+Docker+%7C+Kubernetes;📊+Monitoring+with+Prometheus+%7C+Grafana;☁️+Building+Reliable+%26+Secure+Cloud+Systems" alt="Typing SVG" />
 </div>
 
 <!-- Animated Header -->
@@ -59,8 +59,8 @@
 
 ## 📩 How to reach me
 
-* 🌐 Website/Blog: [www.masdika.biz.id/blog](https://www.masdika.biz.id/)
-* 📧 Email: [me@masdika.biz.id](mailto:me@masdika.biz.id)
+* 🌐 Website/Blog: [www.masdika.id/blog](https://www.masdika.id/)
+* 📧 Email: [me@masdika.id](mailto:me@masdika.id)
 
 ---
 
