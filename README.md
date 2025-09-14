@@ -1,32 +1,42 @@
 <div align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Masdika.ID;🚀+Cloud+Engineer+%7C+DevOps+Specialist+%7C+Sysadmin;⚡+Automating+Infra+with+Ansible+%7C+Terraform+%7C+CI%2FCD;🐳+Scaling+Apps+on+Docker+%7C+Kubernetes;📊+Monitoring+with+Prometheus+%7C+Grafana;☁️+Building+Reliable+%26+Secure+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=5C7C1E&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Masdika.ID;🚀+Cloud+Engineer+%7C+DevOps+Specialist+%7C+Sysadmin;⚡+Automating+Infra+with+Ansible+%7C+Terraform+%7C+CI%2FCD;🐳+Scaling+Apps+on+Docker+%7C+Kubernetes;📊+Monitoring+with+Prometheus+%7C+Grafana;☁️+Building+Reliable+%26+Secure+Cloud+Systems" alt="Typing SVG" />
 </div>
 
-<!-- Animated Header -->
+<!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0e75b6&height=100&section=header&text=Masdika%20DevOps%20Cloud&fontSize=36&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=gradient&text=Masdika%20DevOps%20Cloud&fontAlign=50&fontSize=38&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- Profile Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masdikaaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="masdikaaa" />
+  <img src="https://komarev.com/ghpvc/?username=masdikaaa&label=Profile%20views&color=5C7C1E&style=for-the-badge" alt="masdikaaa" />
+</p>
+
+<!-- GitHub Stats Animations -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masdikaaa&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masdikaaa&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masdikaaa&theme=github-compact&area=true&hide_border=true&color=5C7C1E&line=0e75b6&point=5C7C1E"/>
 </p>
 
 <!-- Badges / Shields -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20CentOS-yellow?logo=linux&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20CentOS-5C7C1E?logo=linux&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ansible-Automation-red?logo=ansible&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Container-0db7ed?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ELK-Logs-blueviolet?logo=elastic&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-CI%2FCD-orange?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Automation-blue?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jenkins-Pipeline-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white&style=for-the-badge"/>
 </p>
@@ -81,11 +91,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins" />
 </p>
 
-<!-- Extra Animation Banner -->
+<!-- Extra Animation Widgets -->
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=masdikaaa&theme=darkmode&data=followers,repositories,stars,commits" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=masdikaaa&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C7C1E&height=120&section=footer"/>
 </p>
