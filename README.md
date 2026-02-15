@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5C7C1E&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Masdika.ID;Cloud+Engineer+%7C+DevOps+Specialist;Infrastructure+Automation+Expert;Docker+%7C+Kubernetes+%7C+Cloud;Monitoring+%7C+Security+%7C+Reliability" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=750&lines=Masdika+ID;Cloud+Engineer+%7C+DevOps+Specialist;Infrastructure+Automation+Expert" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Masdika%20DevOps%20Cloud&fontAlign=50&fontSize=42&animation=twinkling&fontColor=ffffff" />
-
-<img src="https://komarev.com/ghpvc/?username=masdikaaa&label=Profile%20Views&color=5C7C1E&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&text=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&fontAlign=50&fontSize=30&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
@@ -13,78 +11,46 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masdikaaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masdikaaa&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masdikaaa&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masdikaaa&theme=github-compact&area=true&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=masdikaaa&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-## 🚀 Professional Summary
-
-Cloud & DevOps Engineer with strong expertise in designing, automating, and operating production-grade infrastructure.
-
-I specialize in building secure, scalable, and highly available systems using Infrastructure as Code (IaC), container orchestration, and modern CI/CD methodologies.
-
-With hands-on experience across cloud platforms, virtualization, networking, and observability stacks, I focus on delivering resilient architectures that prioritize automation, security, and operational excellence.
-
-### Core Expertise
-
-* Infrastructure as Code (Terraform, Ansible)
-* CI/CD Engineering (GitHub Actions, GitLab CI, Jenkins)
-* Containerization & Orchestration (Docker, Kubernetes, Helm)
-* Cloud Architecture (AWS, GCP, OpenStack, Proxmox)
-* Observability & Monitoring (Prometheus, Grafana, ELK, Loki)
-* Network Engineering (MikroTik, IPsec VPN, BGP)
-* Reverse Proxy & Load Balancing (NGINX, HAProxy, Traefik)
-* Automation & Scripting (Bash, Python, PowerShell)
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,aws,gcp,docker,kubernetes,helm,terraform,ansible,jenkins,githubactions,gitlab,nginx,redis,mysql,postgres,mongodb,prometheus,grafana,elasticsearch,python,bash" />
+  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Ubuntu%20%7C%20CentOS-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-Container-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-Dashboard-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ---
 
-## 🏗️ What I Build
+## 🚀 About Me
 
-* 🔹 Automated CI/CD pipelines for containerized applications
-* 🔹 High-availability infrastructure with reverse proxies & load balancers
-* 🔹 Infrastructure as Code environments for repeatable deployments
-* 🔹 Secure multi-network routing & VPN systems
-* 🔹 Observability stacks for production monitoring
-* 🔹 Self-hosted DevOps platforms and automation frameworks
+Cloud & DevOps Engineer specializing in:
 
----
+- Infrastructure as Code  
+- CI/CD Automation  
+- Containerized production environments  
+- Cloud architecture & virtualization  
+- Monitoring & observability stacks  
+- Network engineering & VPN systems  
 
-## 📈 Engineering Principles
-
-* Automation over manual processes
-* Infrastructure as Code by default
-* Security-first architecture
-* Observability built-in, not bolted-on
-* Scalable & maintainable system design
-
----
-
-## 📩 Contact
-
-<div align="center">
-
-🌐 [https://www.masdika.id/](https://www.masdika.id/)
-📝 [https://www.masdika.id/blog](https://www.masdika.id/blog)
-📧 [me@masdika.id](mailto:me@masdika.id)
-
-</div>
+Focused on reliability, automation, and scalable system design.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5C7C1E&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=footer"/>
 </p>
